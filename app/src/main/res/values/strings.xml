@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My change language</string>
+    <string name="english">english</string>
+    <string name="hindi">hindi</string>
+    <string name="name">Name</string>
+    <string name="edugaon">Edugaon</string>
+    <string name="login">Login</string>
+    <string name="select_language" translatable="false">Choose Language</string>
+    <string name="password">Password</string>
+</resources>

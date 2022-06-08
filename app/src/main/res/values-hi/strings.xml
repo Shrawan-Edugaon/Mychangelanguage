@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My change language</string>
+    <string name="english">अंग्रेज़ी</string>
+    <string name="hindi">हिन्दी</string>
+    <string name="name">नाम</string>
+    <string name="edugaon">एडुगांव</string>
+    <string name="login">लॉग इन करें</string>
+    <string name="password">पासवर्ड</string>
+</resources>
